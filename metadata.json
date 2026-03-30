@@ -1,0 +1,5 @@
+{
+  "name": "Internet Speedometer",
+  "description": "A modern internet speed test application to measure ping, download, and upload speeds.",
+  "requestFramePermissions": []
+}
